@@ -79,10 +79,10 @@
             ],
             "tsConfig": "tsconfig.spec.json",
             "assets": [
-              {
-                "glob": "**/*",
-                "input": "public"
-              }
+            "assets",
+"favicon.ico",
+"404.html"
+
             ],
             "styles": [
               "src/styles.css"
